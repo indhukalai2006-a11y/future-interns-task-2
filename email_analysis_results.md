@@ -34,3 +34,15 @@ Observation: The email passed all three displayed authentication checks. This do
 Classification: Inconclusive — further checks are required.
 
 Safety: Verify the sender and job offer independently. Do not pay fees or share sensitive information without verification.
+Practical Test 1: Email Header Analysis
+
+- Tool used: Gmail Show Original
+- SPF: PASS
+- DKIM: PASS
+- DMARC: PASS
+
+Observation: The email passed all three displayed authentication checks. This does not guarantee that the email is safe.
+
+Classification: Inconclusive — further checks are required.
+
+Safety: Verify the sender and job offer independently. Never pay fees or share sensitive information without verification.
